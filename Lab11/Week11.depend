@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1604805854 source:c:\users\lenovo\desktop\week11\bfsimp.c
+	<stdio.h>
+	"bfs.h"
+
+1604773127 c:\users\lenovo\desktop\week11\bfs.h
+	<stdio.h>
+	<stdlib.h>
+
+1604773154 source:c:\users\lenovo\desktop\week11\bfsmain.c
+	<stdio.h>
+	"bfs.h"
+

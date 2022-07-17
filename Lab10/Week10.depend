@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1604761111 source:c:\users\lenovo\desktop\week10\tbtmain.c
+	<stdio.h>
+	<stdlib.h>
+	"tbt.h"
+
+1604761083 c:\users\lenovo\desktop\week10\tbt.h
+
+1604811940 source:c:\users\lenovo\desktop\week10\tbtimp.c
+	<stdio.h>
+	<stdlib.h>
+	"tbt.h"
+

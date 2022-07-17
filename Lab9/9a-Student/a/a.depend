@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1604049340 source:c:\users\lenovo\desktop\a\etmain.c
+	<stdio.h>
+	"et.h"
+
+1604049293 c:\users\lenovo\desktop\a\et.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1604144860 source:c:\users\lenovo\desktop\a\etimp.c
+	"et.h"
+

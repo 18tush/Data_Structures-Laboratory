@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1599106909 source:c:\users\lenovo\desktop\2\2\dllmain.c
+	<stdio.h>
+	<stdlib.h>
+	"dll.h"
+
+1599106865 c:\users\lenovo\desktop\2\2\dll.h
+
+1599113248 source:c:\users\lenovo\desktop\2\2\dllimp.c
+	<stdlib.h>
+	"dll.h"
+

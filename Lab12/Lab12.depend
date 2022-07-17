@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1605620434 source:c:\users\lenovo\desktop\lab12\hashmain.c
+	<stdio.h>
+	"hash.h"
+
+1605620404 c:\users\lenovo\desktop\lab12\hash.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1514189174 source:c:\users\lenovo\desktop\lab12\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1605624836 source:c:\users\lenovo\desktop\lab12\hashimp.c
+	"hash.h"
+

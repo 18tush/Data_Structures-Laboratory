@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1601182951 source:c:\users\lenovo\desktop\b\6bmain.c
+	"6b.h"
+	<stdio.h>
+
+1601182950 c:\users\lenovo\desktop\b\6b.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1601183187 source:c:\users\lenovo\desktop\b\6bimp.c
+	"6b.h"
+

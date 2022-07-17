@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1603440548 source:c:\users\lenovo\desktop\lab\bstmain.c
+	<stdio.h>
+	"bst.h"
+
+1603440475 c:\users\lenovo\desktop\lab\bst.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1603519155 source:c:\users\lenovo\desktop\lab\bstimp.c
+	<stdio.h>
+	"bst.h"
+

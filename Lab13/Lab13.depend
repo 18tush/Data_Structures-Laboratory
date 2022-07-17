@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1605634482 source:c:\users\lenovo\desktop\lab13\trieimp.c
+	<stdio.h>
+	"trie.h"
+
+1605619425 c:\users\lenovo\desktop\lab13\trie.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605619509 source:c:\users\lenovo\desktop\lab13\triemain.c
+	<stdio.h>
+	"trie.h"
+

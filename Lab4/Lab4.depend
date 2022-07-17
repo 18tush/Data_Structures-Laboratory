@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1599717725 source:c:\users\lenovo\desktop\lab4\cllmain.c
+	<stdio.h>
+	<stdlib.h>
+	"cll.h"
+
+1599575565 c:\users\lenovo\desktop\lab4\cll.h
+	<stdio.h>
+	<stdlib.h>
+
+1599665329 source:c:\users\lenovo\desktop\lab4\cllimp.c
+	"cll.h"
+

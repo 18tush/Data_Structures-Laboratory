@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1598346224 source:c:\users\lenovo\desktop\lab2\new\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sll.h"
+
+1598346547 c:\users\lenovo\desktop\lab2\new\sll.h
+	<stdio.h>
+	<stdlib.h>
+
+1598351606 source:c:\users\lenovo\desktop\lab2\new\sllimp.c
+	<stdio.h>
+	<stdlib.h>
+	"sll.h"
+

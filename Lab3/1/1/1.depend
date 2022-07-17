@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1599059631 source:c:\users\lenovo\desktop\1\1\polymain.c
+	<stdio.h>
+	"poly.h"
+
+1599059558 c:\users\lenovo\desktop\1\1\poly.h
+	<stdio.h>
+	<stdlib.h>
+
+1599105891 source:c:\users\lenovo\desktop\1\1\polyimp.c
+	"poly.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600576914 source:c:\users\lenovo\desktop\lab\5amain.c
+	"stdio.h"
+	"5a.h"
+
+1600576917 c:\users\lenovo\desktop\lab\5a.h
+	<stdio.h>
+	<stdlib.h>
+
+1600584049 source:c:\users\lenovo\desktop\lab\5aimp.c
+	"5a.h"
+
